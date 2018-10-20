@@ -1,0 +1,24 @@
+{
+  "name": "pantry-management-app",
+  "version": "1.0.0",
+  "description": "An app to help manage messy pantries and keep track of stock. Fridge and freezer support included.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon listen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanionita/Pantry-Management-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanionita/Pantry-Management-App/issues"
+  },
+  "homepage": "https://github.com/alanionita/Pantry-Management-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
